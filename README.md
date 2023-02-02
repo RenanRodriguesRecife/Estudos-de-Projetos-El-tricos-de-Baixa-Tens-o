@@ -1,2 +1,2 @@
-# Estudos-de-Projetos-El-tricos-de-Baixa-Tens-o
+# Estudos-de-Projetos-Elétricos-de-Baixa-Tensão
 Minicurso Poli Jr
